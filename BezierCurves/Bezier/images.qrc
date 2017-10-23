@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/images/open.png</file>
+        <file>Resources/images/delete.png</file>
+        <file>Resources/images/Save.png</file>
+        <file>Resources/images/draw.png</file>
+        <file>Resources/images/up.png</file>
+        <file>Resources/images/cut.png</file>
+        <file>Resources/images/evaluation.png</file>
+        <file>Resources/images/insert.png</file>
+        <file>Resources/images/clear.png</file>
+        <file>Resources/images/intersections.png</file>
+    </qresource>
+</RCC>
